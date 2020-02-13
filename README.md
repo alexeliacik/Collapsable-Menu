@@ -13,6 +13,7 @@
 ![data](https://user-images.githubusercontent.com/57728302/74435637-e1180300-4e32-11ea-80d0-3ad638fefbd1.JPG)
 
 <hr>
+&nbsp;&nbsp;
 &nbsp;
 <strong> As you can see for looping through on data, I needed to convert it array of object. </strong>
 
@@ -22,7 +23,8 @@
 ![array-push](https://user-images.githubusercontent.com/57728302/74435811-48ce4e00-4e33-11ea-8ce6-9be61d41ef84.JPG)
 
 <hr>
-
+&nbsp;
+&nbsp;
 &nbsp;
 <strong> Immutable way of of setData. I didn't touch original state while updating it. For beter user experience I closed opened menu when user clicked another one. 
   &nbsp;
@@ -31,11 +33,11 @@
 &nbsp;
 &nbsp;
 
-![first-map](https://user-images.githubusercontent.com/57728302/74436305-34d71c00-4e34-11ea-9e3e-402616004a43.JPG)
+![update-object](https://user-images.githubusercontent.com/57728302/74436484-8b445a80-4e34-11ea-9850-83d2c36632de.JPG)
 
 <hr>
 
-<strong> Immutable way of of setData. I didn't touch original state while updating it. For beter user experience I closed opened menu when user clicked another one. 
+<strong> First map function while maping each section, also I needed to take handle section name after user click section. 
   &nbsp;
 
 </strong>
