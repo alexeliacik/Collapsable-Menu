@@ -41,7 +41,7 @@
 
 <hr>
 
-<strong> First map function while maping each section, also I needed to take handle section name after user click section. 
+<strong> First map function while maping each section, also I needed to handle section name after user click section. 
   &nbsp;
 
 </strong>
