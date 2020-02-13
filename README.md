@@ -13,20 +13,21 @@
 ![data](https://user-images.githubusercontent.com/57728302/74435637-e1180300-4e32-11ea-80d0-3ad638fefbd1.JPG)
 
 <hr>
-&nbsp;&nbsp;
+
 &nbsp;
 <strong> As you can see for looping through on data, I needed to convert it array of object. </strong>
-
-
+</br>
+&nbsp;&nbsp;
 &nbsp;
 &nbsp;
+
 ![array-push](https://user-images.githubusercontent.com/57728302/74435811-48ce4e00-4e33-11ea-8ce6-9be61d41ef84.JPG)
 
 <hr>
 &nbsp;
 &nbsp;
 &nbsp;
-<strong> Immutable way of of setData. I didn't touch original state while updating it. For beter user experience I closed opened menu when user clicked another one. 
+<strong> Immutable way of setData. I didn't touch original state while updating it. For beter user experience I closed opened menu when user clicked another one. 
   &nbsp;
 
 </strong>
@@ -48,6 +49,30 @@
 
 <hr>
 
+<strong> Power of Styled Components !! 
+  &nbsp;
+
+</strong>
+&nbsp;
+&nbsp;
+
+![power-of-styled-components](https://user-images.githubusercontent.com/57728302/74436837-1cb3cc80-4e35-11ea-909c-e132d25cfb55.JPG)
+
+
+<hr>
+
+<strong> I needed to loop thgrough on list items. I dind't need another div, that's why I used 'React.Fragment'
+  &nbsp;
+
+</strong>
+&nbsp;
+&nbsp;
+
+![second-map](https://user-images.githubusercontent.com/57728302/74436906-3e14b880-4e35-11ea-8dfe-8d61a65203ee.JPG)
+
+
+<hr>
+
 <h4><strong>Used technologies: </strong> React JS (React Hooks, React Router, React.lazy()), Firebase, Axios, RegEx, Bootstrap4, HTML, CSS.  </h4>
-<h3>Netlify Link: https://keen-saha-a66792.netlify.com</h3>
-<h4>Login Password: alex2121</h4>
+<h3>Netlify Link: https://quizzical-hopper-24a893.netlify.com</h3>
+
