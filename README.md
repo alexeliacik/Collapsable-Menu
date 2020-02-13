@@ -79,6 +79,6 @@
 
 <hr>
 
-<h4><strong>Used technologies: </strong> React JS (React Hooks, Styled Components, HTML, CSS.  </h4>
+<h4><strong>Used technologies: </strong> React JS (React Hooks, Styled Components), HTML, CSS.  </h4>
 <h3>Netlify Link: https://quizzical-hopper-24a893.netlify.com</h3>
 
