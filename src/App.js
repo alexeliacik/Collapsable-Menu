@@ -27,7 +27,10 @@ const MarginTopAuto = styled.div`
 function App() {
   const [data, setData] = useState({
     DISCOVER: {
-      titles: [{ id: 1, value: "Frequently Asked Questions" }],
+      titles: [
+        { id: 1, value: "Frequently Asked Questions" },
+        { id: 2, value: "Digital Library" } 
+      ],
       show: false
     },
     ABOUT: {
