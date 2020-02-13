@@ -29,7 +29,7 @@ function App() {
     DISCOVER: {
       titles: [
         { id: 1, value: "Frequently Asked Questions" },
-        { id: 2, value: "Digital Library" } 
+        { id: 2, value: "Hire with Us" } 
       ],
       show: false
     },
