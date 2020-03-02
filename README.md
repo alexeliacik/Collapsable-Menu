@@ -1,4 +1,4 @@
-<h1 style='text-align:center;'> Collapsable Menu </h1>
+<h1 style='text-align:center;'> Collapsible Menu </h1>
 <strong> In this project, I used the most updated React Js futures with Styled Components.</strong>
 
 ![collapsable-menu](https://user-images.githubusercontent.com/57728302/74435202-ecb6fa00-4e31-11ea-822b-8f21203eaa3c.gif)
